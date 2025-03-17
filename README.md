@@ -1,5 +1,10 @@
 # **Project 4: Design System Development & Responsive Implementation**
 
+**Due Date:**
+**Total Marks:** 100  
+
+
+
 ## **Objective**
 - Develop a comprehensive **Design System** in Figma, incorporating design tokens, components, and thorough documentation.
 - Implement a **responsive** web-based version of your application using **HTML** and **CSS**, utilizing **Flexbox** and **Grid** techniques.
@@ -116,16 +121,15 @@
 
 ---
 
-## **Evaluation Criteria**
-- **Design System Quality** (40%):
-  - **Consistency**: Uniformity in design tokens and components.
-  - **Comprehensiveness**: Coverage of all necessary UI elements with detailed documentation.
-- **Responsive Implementation** (40%):
-  - **Functionality**: Accurate translation of the design into code.
-  - **Responsiveness**: Effective use of Flexbox and Grid to ensure adaptability across devices.
-- **Presentation & Documentation** (20%):
-  - **Clarity**: Clear articulation of design decisions and processes.
-  - **Engagement**: Effective communication and visual presentation.
+
+## **Evaluation Criteria (100 Marks)**
+
+| **Criteria**                    | **0%** | **50%** | **100%** | **Marks** |
+|---------------------------------|--------|---------|---------|-----------|
+| **Design System Quality**       | Incomplete or poorly structured. | Basic components, limited documentation. | Well-structured with comprehensive documentation. | 40 |
+| **Responsive Implementation**   | Poorly coded, not responsive. | Partially responsive, missing details. | Fully responsive, well-structured code. | 40 |
+| **Presentation & Documentation** | Unclear or missing video/documentation. | Covers basics but lacks clarity. | Engaging, well-documented, and well-explained. | 20 |
+
 
 ---
 
